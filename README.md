@@ -1,7 +1,5 @@
 ### Que mais? 👋
 
-![iondrimba github stats](https://github-readme-stats.vercel.app/api?username=iondrimba&hide=contribs) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iondrimba&layout=compact)](https://github.com/iondrimba/github-readme-stats)
-
 <!--
 **iondrimba/iondrimba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
